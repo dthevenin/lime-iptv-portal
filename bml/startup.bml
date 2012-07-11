@@ -33,16 +33,17 @@
     }
     </script>
   </head>
-  <body class="on-purple">
-    <div class="colA row1 on-blue on-27cols on-1row"></div>
-    <p class="colA row1 white on-blue on-26cols on-1row align-center"
-      >LIME IPTV Portal</p>
+  <body class="on-gray">
+    <div class="colA row1 on-27cols on-1row"></div>
+    <p class="colA row1 black on-26cols on-1row align-left"
+      >ViniSketch Designer IPTV Portal</p>
 
-    <p class="colA row2 on-2cols on-1row align-right white"
+    <div class="colA row14 on-dark-gray on-27cols on-1row"></div>
+    <p class="colA row14 on-2cols on-1row align-right white"
       >URL:</p>
-    <p class="colC row2 on-3cols on-1row align-right white"
+    <p class="colC row14 on-3cols on-1row align-right white"
       >http://</p>
-    <div class="colF row2 on-14cols on-1row">
+    <div class="colG row14 on-14cols on-1row">
       <input type="text"
         maxlength="40" inputmode="indirect"
         value="192.168.0.11/lime/startup.bml"
@@ -51,36 +52,24 @@
       />
     </div>
 
-    <p class="colT row2 on-3cols on-1row">
+    <p class="colY row14 on-4cols on-1row">
       <a href="startup.bml" class="white border button link2" id="go">~Go!~</a>
     </p>
 
-    <div class="colA row4 on-white on-27cols on-10rows"></div>
+    <div class="colA row3 on-white on-27cols on-10rows"></div>
     <p class="colC row5 on-27cols on-1row">
-      <a href="http://alevemine.com/AleveLIME-Site/startup.bml"
-        class="blue underline link3 below-link1">Aleve Mine</a>
+      <a href="http://dthevenin.github.com/LimeDRPC/index.bml"
+        class="black underline link3">VSD DRPC ex</a>
     </p>
     <p class="colC row6 on-27cols on-1row">
-      <a href="http://eric-brechemier.github.com/lime-starter-kit/lab/startup.bml"
-        class="blue underline link4">LIME Starter Kit (Lab)</a>
+      <a href="http://dthevenin.github.com/BelleMaison/index.bml"
+        class="black underline link4">VSD BelleMaison ex</a>
     </p>
     <p class="colC row7 on-27cols on-1row">
-      <a href="http://kawamori.github.com/LIME-Book/startup.bml"
-        class="blue underline link5">LIME Samples</a>
-    </p>
-    <p class="colC row8 on-27cols on-1row">
-      <a href="http://dthevenin.github.com/LimeDRPC/index.bml"
-        class="blue underline link6">VSD DRPC ex</a>
-    </p>
-    <p class="colC row9 on-27cols on-1row">
-      <a href="http://dthevenin.github.com/BelleMaison/index.bml"
-        class="blue underline link7">VSD BelleMaison ex</a>
-    </p>
-    <p class="colC row10 on-27cols on-1row">
       <a href="http://dthevenin.github.com/DemoLime/index.bml"
-        class="blue underline link8 before-link1">VSD Demo ex</a>
+        class="black underline link5 before-link1">VSD Demo ex</a>
     </p>
     <p class="colA row15 on-27cols on-10rows align-right white"
-      >Contact: lime@eric.brechemier.name</p>
+      >Contact: contact@vinisketch.com</p>
   </body>
 </bml>
