@@ -44,19 +44,19 @@
     <div class="colB row5 on-7cols on-4rows on-gray"></div>
     <p class="colB row8 on-7cols on-4rows">
       <a href="http://dthevenin.github.com/LimeDRPC/index.bml"
-        class="black underline link1 row3">VSD DRPC ex</a>
+        class="black underline link1 row3">DRPC</a>
     </p>
     
     <div class="colJ row5 on-7cols on-4rows on-gray"></div>
     <p class="colJ row8 on-7cols on-4rows">
       <a href="http://dthevenin.github.com/BelleMaison/index.bml"
-        class="black underline link2">VSD BelleMaison ex</a>
+        class="black underline link2">BelleMaison</a>
     </p>
 
     <div class="colR row5 on-7cols on-4rows on-gray"></div>
     <p class="colR row8 on-27cols on-1row">
       <a href="http://dthevenin.github.com/DemoLime/index.bml"
-        class="black underline link3 before-link1">VSD Demo ex</a>
+        class="black underline link3 before-link1">Demo</a>
     </p>
     <p class="colA row15 on-27cols on-10rows align-right white"
       >contact@vinisketch.com</p>
