@@ -35,7 +35,7 @@
   </head>
   <body>
     <div class="fullscreen">
-      <object type="image/jpeg" data="images/background.jpg" 
+      <object type="image/jpeg" data="images/backgroundBis.jpg" 
         class="fullscreen"></object>
     </div>
 
