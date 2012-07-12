@@ -35,7 +35,7 @@
   </head>
   <body class="on-gray">
     <div class="colA row1 on-27cols on-1row"></div>
-    <div id="hak_id_131353133605651835" class="colB row1"><object type="image/jpeg" data="images/logo.jpg" style="top:0px;left:0px;width:360px;height:237px;"></object></div>
+    <div id="hak_id_131353133605651835" class="colB row1"><object type="image/jpeg" data="images/Logo.jpg" style="top:0px;left:0px;width:360px;height:237px;"></object></div>
 
     <div class="colA row3 on-white on-27cols on-10rows"></div>
     
@@ -57,6 +57,6 @@
         class="black underline link3 before-link1">VSD Demo ex</a>
     </p>
     <p class="colA row15 on-27cols on-10rows align-right white"
-      >Contact: contact@vinisketch.com</p>
+      >contact@vinisketch.com</p>
   </body>
 </bml>
