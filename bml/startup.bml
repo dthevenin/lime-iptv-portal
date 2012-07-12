@@ -35,39 +35,26 @@
   </head>
   <body class="on-gray">
     <div class="colA row1 on-27cols on-1row"></div>
-    <p class="colA row1 black on-26cols on-1row align-left"
-      >ViniSketch Designer IPTV Portal</p>
-
-    <div class="colA row14 on-dark-gray on-27cols on-1row"></div>
-    <p class="colA row14 on-2cols on-1row align-right white"
-      >URL:</p>
-    <p class="colC row14 on-3cols on-1row align-right white"
-      >http://</p>
-    <div class="colG row14 on-14cols on-1row">
-      <input type="text"
-        maxlength="40" inputmode="indirect"
-        value="192.168.0.11/lime/startup.bml"
-        class="black border on-white on-14cols on-1row link1 above-link3 after-link4"
-        id="url" onblur="updateUrl();"
-      />
-    </div>
-
-    <p class="colY row14 on-4cols on-1row">
-      <a href="startup.bml" class="white border button link2" id="go">~Go!~</a>
-    </p>
+    <div id="hak_id_131353133605651835" class="colB row1"><object type="image/jpeg" data="images/logo.jpg" style="top:0px;left:0px;width:360px;height:237px;"></object></div>
 
     <div class="colA row3 on-white on-27cols on-10rows"></div>
-    <p class="colC row5 on-27cols on-1row">
+    
+    <div class="colB row4 on-7cols on-4rows on-gray"></div>
+    <p class="colB row7 on-7cols on-4rows">
       <a href="http://dthevenin.github.com/LimeDRPC/index.bml"
-        class="black underline link3">VSD DRPC ex</a>
+        class="black underline link1 row3">VSD DRPC ex</a>
     </p>
-    <p class="colC row6 on-27cols on-1row">
+    
+    <div class="colJ row4 on-7cols on-4rows on-gray"></div>
+    <p class="colJ row7 on-7cols on-4rows">
       <a href="http://dthevenin.github.com/BelleMaison/index.bml"
-        class="black underline link4">VSD BelleMaison ex</a>
+        class="black underline link2">VSD BelleMaison ex</a>
     </p>
-    <p class="colC row7 on-27cols on-1row">
+
+    <div class="colR row4 on-7cols on-4rows on-gray"></div>
+    <p class="colR row7 on-27cols on-1row">
       <a href="http://dthevenin.github.com/DemoLime/index.bml"
-        class="black underline link5 before-link1">VSD Demo ex</a>
+        class="black underline link3 before-link1">VSD Demo ex</a>
     </p>
     <p class="colA row15 on-27cols on-10rows align-right white"
       >Contact: contact@vinisketch.com</p>
