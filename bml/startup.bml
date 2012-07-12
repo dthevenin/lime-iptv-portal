@@ -33,8 +33,11 @@
     }
     </script>
   </head>
-  <body class="on-gray">
-    <div class="fullscreen"><object type="image/jpeg" data="images/background.jpg" class="fullscreen"></object></div>
+  <body>
+    <div class="fullscreen">
+      <object type="image/jpeg" data="images/background.jpg" 
+        class="fullscreen"></object>
+    </div>
 
     <div class="colA row4 on-white on-27cols on-10rows"></div>
     
